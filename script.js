@@ -6,3 +6,5 @@ let divZoneProposition = document.querySelector(".ZoneProposition");
 console.log(divZoneProposition);
 let score = document.querySelector(".Zonescore span");
 console.log(score)
+let listBoutonRadio = document.querySelectorAll(".optionSource input ")
+console.log(listBoutonRadio)
